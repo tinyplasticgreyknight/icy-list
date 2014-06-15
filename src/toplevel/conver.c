@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 #define DATAFIELD       0x5F
 #define BACKGROUND      0x1E
@@ -714,4 +714,3 @@ quit:
      return(0);
 }
 
-

@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -27,4 +27,3 @@ int reset_tabs(char *string, int how_far)
      return(0);
 }
 
-

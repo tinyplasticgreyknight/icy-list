@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -495,4 +495,3 @@ int list( char *name, Promptfile prompt, long start, long end,
      return(0);
 }
 
-

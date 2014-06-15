@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -48,4 +48,3 @@ int print_check_report(int status, char *name, long line, char c)
      return(0);
 }
 
-

@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /******************************************************************************
 **                                                                           **
@@ -73,4 +73,3 @@ int get_short_prompt( char *name, Promptfile prompt, int n,
 
 }
 
-

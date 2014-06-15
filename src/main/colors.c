@@ -1,5 +1,5 @@
 
-#include "l_global.h"
+#include "global.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -26,4 +26,4 @@ main(int argc, char **argv)
      fprintf(stdout, "done.");
 }
 
-
+

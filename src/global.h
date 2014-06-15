@@ -16,8 +16,7 @@
 #include <conio.h>
 #include <graph.h>
 
-#include "l_define.h"
-
+#include "define.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -151,5 +150,3 @@ boolean partial_page;
        /* (used to maintain the current level of comment indentation) */
 
 int indent_level, I2, I3, NX, FB, RB;
-
-

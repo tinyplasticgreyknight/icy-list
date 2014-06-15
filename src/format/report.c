@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 extern unsigned char bold[], boff[], ital[], itoff[];
 
@@ -840,4 +840,3 @@ int print_list_report( char *file_name, Promptfile prompt,
      return(0);
 }
 
-

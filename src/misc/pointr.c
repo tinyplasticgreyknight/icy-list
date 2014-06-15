@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -34,4 +34,3 @@ Reflist_ptr reflist_alloc( void )
      return( pointer );
 }
 
-

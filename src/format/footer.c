@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 extern unsigned char bold[], boff[];
 
@@ -96,4 +96,3 @@ int print_list_footer(boolean forward, boolean reverse)
      return(0);
 }
 
-

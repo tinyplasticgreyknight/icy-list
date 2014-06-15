@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -317,4 +317,3 @@ int sourcecode( struct sourceline inline,
      return(0);
 }
 
-

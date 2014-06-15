@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -98,4 +98,3 @@ int get_modified_prompt( char *name, Promptfile prompt, int n,
 
 }
 
-

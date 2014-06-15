@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 extern unsigned char con[], coff[], bold[], boff[], ital[], itoff[];
 
@@ -2328,4 +2328,3 @@ int comments( char *return_string, struct sourceline inline,
      return(0);
 }
 
-

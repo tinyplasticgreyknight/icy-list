@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 extern unsigned char ital[], itoff[];
 
@@ -30,4 +30,3 @@ int set_in_italics(char *in_line)
      return(0);
 }
 
-

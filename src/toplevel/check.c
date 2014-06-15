@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -181,4 +181,3 @@ int check( char *name, boolean nocheck, long *errline, char *errchar ) {
 
 }  /* end check() */
 
-

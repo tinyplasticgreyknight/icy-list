@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -235,4 +235,3 @@ int read_command_line_options ( int argc, char **argv, long *start_listing_here,
      return(0);
 }
 
-

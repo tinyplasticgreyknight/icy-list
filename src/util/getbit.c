@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -22,4 +22,3 @@ unsigned getbits(unsigned x, int p, int n)
 
 }
 
-

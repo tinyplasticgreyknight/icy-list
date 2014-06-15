@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -25,4 +25,3 @@ char *zero_numstring(int number)
      return(zero_string);
 }
 
-

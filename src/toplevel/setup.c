@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -363,4 +363,3 @@ int setup ( int argc, char **argv, Promptfile prompt,
      return(0);
 }
 
-

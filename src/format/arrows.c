@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 extern unsigned char space[], question_mark[], page_break_char[],
                      extend_forward_block[], open_forward_block[],
@@ -433,4 +433,3 @@ int arrows(char *string, boolean *forward, boolean *reverse,
      return(0);
 }
 
-

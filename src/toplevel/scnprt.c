@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -892,4 +892,3 @@ int draw_tiny_label( unsigned prompt_number, int row, int column,
 bail:
         return(0);
 }
-

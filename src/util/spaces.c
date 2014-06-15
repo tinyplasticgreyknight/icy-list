@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -27,4 +27,3 @@ char *spaces(int n)
      return(spaces_string);
 }
 
-

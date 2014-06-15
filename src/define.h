@@ -53,8 +53,6 @@
 #define P_ALPHA              7         /* Alpha prompt                        */
 #define P_CONSTANT           8         /* CONSTANT type in prompt file        */
                                        /***************************************/
-
-
 /*
 **  Where we expect to find various prompt files.  This part is site-dependent.
 */
@@ -92,5 +90,3 @@
 #define CANCEL_PRINTING      "c:\\dos\\print c:\\listfile.rjl /c"
 #define SEND_TO_PRINTER      "c:\\dos\\print c:\\listfile.rjl"
 #define SEND_TO_BATCH_PRINT  "copy c:\\listfile.rjl > prn"
-
-

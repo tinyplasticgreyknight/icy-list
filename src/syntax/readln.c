@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -94,4 +94,3 @@ int read_bancstar_source_code(char *line, struct sourceline *parameters)
      return(0);
 }
 
-

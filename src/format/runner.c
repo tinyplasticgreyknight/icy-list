@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 extern unsigned char bold[], boff[];
 
@@ -195,4 +195,3 @@ int generate_header_macro ( char *filename, long total_lines ) {
      return(0);
 }
 
-

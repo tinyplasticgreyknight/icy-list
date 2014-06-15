@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -27,4 +27,3 @@ char *long_numstring(long number)
      return(long_string);
 }
 
-

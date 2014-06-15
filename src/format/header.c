@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 extern unsigned char bold[], boff[];
 
@@ -193,4 +193,3 @@ int print_list_header( char *filename, long pagenum, long total_lines,
      return(0);
 }
 
-

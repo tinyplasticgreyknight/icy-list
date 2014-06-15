@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /******************************************************************************
 **                                                                           **
@@ -50,4 +50,3 @@ int linenumber(char *number, long n)
 
 }
 
-

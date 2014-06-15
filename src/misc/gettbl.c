@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /******************************************************************************
 **                                                                           **
@@ -23,4 +23,3 @@ printf("\nL_GETTBL: return_string(%d) = '%s', strlen = %u", line_number, return_
    return(0);
 }
 
-

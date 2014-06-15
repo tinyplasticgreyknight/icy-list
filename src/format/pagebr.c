@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 extern unsigned char normal[], page_break_char[];
 
@@ -51,4 +51,3 @@ int print_page_break(boolean forward, boolean reverse)
      return(0);
 }
 
-

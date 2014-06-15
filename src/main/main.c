@@ -1,5 +1,5 @@
 
-#include "l_global.h"
+#include "global.h"
 #include <time.h>
 
 /*****************************************************************************
@@ -336,4 +336,4 @@ all_done:
 **           'bitchin' is more of a performance metric...."
 */
 
-
+

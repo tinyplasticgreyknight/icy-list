@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /******************************************************************************
 **                                                                           **
@@ -96,4 +96,3 @@ int read_promptfile_code(char *line, struct pfile *promptfile)
      return(0);
 }
 
-

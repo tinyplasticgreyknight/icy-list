@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -30,4 +30,3 @@ int print_new_page_number(long page_number)
      return(0);
 }
 
-

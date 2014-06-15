@@ -1,5 +1,5 @@
 
-#include "l_extern.h"
+#include "extern.h"
 
 /*****************************************************************************
 **                                                                          **
@@ -133,4 +133,3 @@ int indentation(char *string, struct sourceline inline, boolean in_reverse)
      return(0);
 }
 
-
